@@ -1,6 +1,6 @@
-# Scaling
+# Scaling and Load Balancer
 <br/>
-<br/>
+
 
 ## What is Scaling ?
 
@@ -10,16 +10,16 @@ Scaling, in the context of software development, is the process of handling grow
 
 * **Vertical Scaling (Scaling Up):** 
     * This involves increasing the resources of Our Computers like Increasing a RAM and Memory and cloud services. 
-    * In the start of time it becomes cost-effective, vertical scaling has limitations. 
-    * It has a Several Limitation like if The sever filled then overflow starts and hard to manage 
-    * Basically in this type of scaling Involves enhancing existing software and Tools 
+    * At the start of time it becomes cost-effective, vertical scaling has limitations. 
+    * It has a Several Limitation if The sever is filled then overflow starts and hard to manage 
+    * Basically this type of scaling Involves enhancing existing software and Tools 
 * **Horizontal Scaling (Scaling Out):** 
     * This approach involves adding more servers to the pool. 
     * While offering high scalability and improved fault tolerance, managing a large number of servers can introduce significant operational overhead.
-    * In easy term we can say It is like we are adding more lane in Highway to reduce traffic,
-    * so in this type of scaling involves adding more server to distribute the load
+    * In easy terms we can say It is like we are adding more lanes in Highway to reduce traffic,
+    * So this type of scaling involves adding more servers to distribute the load
 
-Whenever a Development Project starts  tobegin to scale, so do their teams. More developers, designers, and testers mean that challenges in communication, collaboration, and management will start to arise. The challenge, therefore, is that as your software begins to scale to meet your users’ demands, so must your teams scale in synergy so as to ensure in-sync operations, effective communication, and minimal friction. Today, scaling and growth in general, has consistently been a double-edged sword. On one side, it represents innovation and progress. On the other, it often ushers in some operational complexities, with one of the main ones being micro-management.
+Whenever a Development Project starts  to begin to scale, so do their teams. More developers, designers, and testers mean that challenges in communication, collaboration, and management will start to arise. The challenge, therefore, is that as your software begins to scale to meet your users’ demands, so must your teams scale in synergy so as to ensure in-sync operations, effective communication, and minimal friction. Today, scaling and growth in general, has consistently been a double-edged sword. On one side, it represents innovation and progress. On the other, it often ushers in some operational complexities, with one of the main ones being micro-management.
 
  * Effective scaling ensures continued performance and user satisfaction as demand increase
 
@@ -49,7 +49,8 @@ Whenever a Development Project starts  tobegin to scale, so do their teams. More
 ## 6. Conclusion
 
  * In conclusion, we can say Scalability ensures Software can handle growth without compromising performance or Functionality
- * Its a continuous journey require regular monitoring and adaption of changing and need 
+ * It's a continuous journey that requires regular monitoring and adaption of changes and need
+ * Load Balancer is one of methods which helps to perform scalability 
 
 
 
