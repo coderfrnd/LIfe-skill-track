@@ -6,7 +6,7 @@
 
 Scaling, in the context of software development, is the process of handling growth and increasing the capacity of a software system or application. This growth can be in a number of different forms: An increase in users, expanding features, or even branching into new platforms. Scaling ensures that as the demand for the software increases, it continues to operate in an efficient manner, without compromising on functionality or performance. There are generally two approaches to scaling in software development: 
        <img src='https://www.trustshoring.com/wp-content/webp-express/webp-images/uploads/2023/09/1-768x576.jpg.webp'>
-## 2. Types of Scaling 
+##  Types of Scaling 
 
 * **Vertical Scaling (Scaling Up):** 
     * This involves increasing the resources of Our Computers like Increasing a RAM and Memory and cloud services. 
