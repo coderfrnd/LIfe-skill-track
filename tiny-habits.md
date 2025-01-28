@@ -1,4 +1,4 @@
-# What are Tiny Habits
+#  Tiny Habits
 
 
 
@@ -6,7 +6,7 @@
 
 **Tiny Habits** is a concept developed by Dr. BJ Fogg, a behavior scientist, that focuses on creating small, simple, and manageable actions to build lasting change. Instead of relying on motivation or setting lofty goals, the Tiny Habits method emphasizes starting small, anchoring new habits to existing routines, and celebrating progress.
 
- means The goal is to reduce the overwhelm of big changes and build confidence through consistent, achievable actions. in simple term we can say like if lets assume our goal is big so can we achieve this in one day or one week the answer is no so we need to first start working with small task like break our goal in small parts so we can achieve big goal
+ means the goal is to reduce the overwhelming feeling of big changes and build confidence through consistent, achievable actions. in simple terms we can say like if let's assume our goal is big so can we achieve this in one day or one week the answer is no so we need first to start working with a small task like breaking our goal into small parts so we can achieve a big goal
  
  **Making change tiny is the best way to create lasting change** By BJ FOGG
 
@@ -23,11 +23,11 @@
 # How to Develop Tiny Habits
 
 1. **Start Small**  
-   Do easy and small thing first like many people start doing big task first and when they are not able to  perform task they get running out of energy or exhausted and they left so we need to start with small like when a kid starts going school first he learn letters then number then other thing 
+   Do easy and small things first many people start doing big tasks first and when they are not able to  perform the task they run out of energy or are exhausted and they left so we need to start with small like when a kid starts going school first he learns letters then number then another thing 
 
 
 2. **Anchor to Existing Habits**  
-    It means we need to add new Habits in daily routine so after performing that habit they become behavior it helps our to achieve out goal  
+    It means we need to add new Habits in our daily routine so that after performing that habits they become behaviors it helps us to achieve our goal  
    
 
 3. **Celebrate Success**  
