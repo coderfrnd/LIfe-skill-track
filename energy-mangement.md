@@ -7,7 +7,7 @@ Energy Mangement play important role in Human life energy management is about ta
 ## Types of Energy
 
 ### 1. **Physical Energy**
-This is the energy you use for movement, exercise, and daily activities. To manage it:
+ Physical energy" refers to the energy associated with the movement or potential for movement of physical matter. This is the energy you use for movement, exercise, and daily activities. Everything depend on this energy if you burn this energy in a place where its not needed then your whole routine means maybe effected  But if you don’t manage it right—like skipping sleep, eating junk, or overworking—you’ll crash hard.  To manage it:
 - **Eat well**: Fuel your body with good meals and whole grains and milk not using junk food.
 - **Stay active**: Regular exercise or playing some games or any outdoor activity keeps you energized and strong.
 - **Sleep enough**: At least 7-9 hours of sleep to recharge your body and you feel fresh and energized for the next day otherwise, you are not able to perform well also without proper sleep there is no meaning of energy management.
